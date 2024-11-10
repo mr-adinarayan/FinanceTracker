@@ -13,6 +13,10 @@ A simple web application to help you track your income and expenses, visualize y
 - Charting: Chart.js for creating interactive financial charts
 - Data Storage: localStorage for saving user transactions
 
+### Screenshots
+![Screenshot 2024-11-10 083235](https://github.com/user-attachments/assets/035e0718-808e-43f9-b53d-ecc443b02d85)
+![Screenshot 2024-11-10 083251](https://github.com/user-attachments/assets/8b0db564-7050-4bad-9d36-54ef988b1c5e)
+
 ## Getting Started
 
 ### Prerequisites
@@ -38,9 +42,6 @@ No special prerequisites are required to run this project. It is a static web ap
 3. Submit the transaction. It will appear in the transaction list, and the chart will update accordingly.
 4. View the pie chart displaying your income vs. expense breakdown.
 
-### Screenshots
-![Screenshot 2024-11-10 083235](screenshots/screenshot1.png)
-![Screenshot 2024-11-10 083251](screenshots/screenshot2.png)
 Example of the app's user interface showing transaction list and chart.
 
 ## Future Enhancements
